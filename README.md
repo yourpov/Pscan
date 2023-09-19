@@ -22,4 +22,4 @@ To run the executable:
 
 
 - `<host>`: Target host or IP address to scan.
-- `<ports>`: Maximum port number to scan up to.
+- `<maxPort>`: Maximum port number to scan up to.
