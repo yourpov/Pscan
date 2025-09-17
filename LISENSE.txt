@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2023 Ecstasy (Nix)
+ * Copyright (c) 2023 yourPOV (Nix)
  * 
  * All rights reserved. This code or any portion thereof may not be reproduced 
  * or used in any manner whatsoever without the express written permission of 
